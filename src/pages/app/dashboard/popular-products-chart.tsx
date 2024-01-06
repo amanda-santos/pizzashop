@@ -13,11 +13,11 @@ const data = [
 ]
 
 const COLORS = [
-  colors.sky[500],
-  colors.amber[500],
-  colors.violet[500],
-  colors.emerald[500],
+  colors.orange[500],
   colors.rose[500],
+  colors.indigo[500],
+  colors.cyan[500],
+  colors.emerald[500],
 ]
 
 export function PopularProductsChart() {
